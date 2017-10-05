@@ -29,7 +29,8 @@ body {
     );
     background-attachment:fixed;
     font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
-    font-size:40x;
+    font-size:100px;
+	color: #FFFFFF;
     height:100%;
     margin:50px;
     padding:0px;
