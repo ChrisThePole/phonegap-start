@@ -110,5 +110,6 @@ h1 {
 }
 
 #button {
-	size: 40px;
+	width: 40px;
+	height: 40px;
 }
